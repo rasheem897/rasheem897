@@ -2,59 +2,53 @@
 
 **Python Developer | Data Analytics | Software Engineering**
 
-I am an Artificial Intelligence and Data Science graduate from Anna University, Chennai, with approximately six months of professional experience at Infosys. I enjoy solving practical problems with programming, data analysis and software engineering fundamentals.
+I am an Artificial Intelligence and Data Science graduate from Anna University, Chennai, with approximately six months of professional experience at Infosys. I am interested in Python development and data analytics, and I enjoy applying programming and analytical thinking to practical problems.
 
-- 🎓 B.Tech — Artificial Intelligence & Data Science, Anna University
-- 💼 Professional experience — approximately 6 months at Infosys
-- 💻 Core skills — Python, SQL, Java, NumPy, Pandas
-- 📊 Analytics — data cleaning, manipulation and exploratory analysis
-- 🧠 Areas of interest — Python development, data analytics and applied machine learning
-- 📍 Based in India; open to relevant technology opportunities
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science, Anna University (2025)
+- 💼 **Experience:** Approximately 6 months at Infosys
+- 💻 **Programming:** Python, Java, Embedded C
+- 📊 **Data:** SQL, MySQL, Oracle Database, NumPy, Pandas
+- 📈 **Analytics & BI:** Data analysis fundamentals, Power BI, Tableau
+- 🧠 **Areas of interest:** Python development, data analytics, machine learning and computer vision
+- 📍 **Location:** India | Open to technology opportunities
 
 ## Technical skills
 
 | Area | Skills |
 |---|---|
 | Programming | Python, Java, Embedded C |
-| Data | SQL, MySQL, Oracle Database, NumPy, Pandas |
-| Analytics & BI | Data analysis fundamentals, Power BI, Tableau |
-| Development | OOP, JDBC, Flutter/Dart |
-| Embedded & connectivity | ESP32, LoRa, GSM, GPS, OLED |
-| Foundations | Machine learning, data processing, problem-solving |
+| Databases | SQL, MySQL, Oracle Database |
+| Python data tools | NumPy, Pandas |
+| Analytics & BI | Data analysis, Power BI, Tableau |
+| Machine learning | Machine learning fundamentals, computer vision, YOLOv8 |
+| Embedded / IoT | ESP32, LoRa, GSM, GPS concepts, OLED |
 
 ## Featured projects
 
-The following project pages summarize work and project experience discussed in my portfolio. Source code and supporting assets will be added to their respective repositories as they are organized and verified.
+These project pages are grounded in the academic reports supplied for this portfolio. They document the project scope and reported results; source code and reproducible build/training files still need to be added.
 
-### 1. Employee Management System
-**Java · MySQL · JDBC · OOP**
+### 1. Hemorrhagic Stroke Detection in Brain CT Images
+**YOLOv8 · Computer Vision · Medical Image Analysis**
 
-A Java application focused on employee-record management and database connectivity. The project covers CRUD operations, object-oriented design, input validation and exception handling.
+An academic mini project exploring YOLOv8-based localization of suspected hemorrhagic regions in CT images. The report describes 5,511 images, 240 training epochs and a reported test accuracy of 76.27%.
 
-[View project overview](projects/employee-management-system/README.md)
+[Read the project documentation](projects/yolov8-hemorrhagic-stroke/README.md)
 
-### 2. Grocery Delivery Mobile Application
-**Flutter · Dart**
+### 2. Emergency Communication System for Remote Regions
+**ESP32 · LoRa · GSM · Embedded C · Arduino IDE**
 
-A mobile application concept covering core grocery-shopping workflows, including authentication, product catalogue, cart management and order placement, organized into modular components.
+A team project proposing a push-button emergency alert system using a LoRa transmitter/receiver link and GSM-based SMS notifications, with display feedback.
 
-[View project overview](projects/grocery-delivery-app/README.md)
+[Read the project documentation](projects/emergency-communication-system/README.md)
 
-### 3. Emergency Communication System using LoRa
-**Embedded C · ESP32 · LoRa · GSM · GPS · OLED**
+## Current focus
 
-An embedded-systems project exploring communication when conventional network infrastructure is unavailable, with packet transmission and real-time location tracking.
+- Strengthening Python, SQL and data analysis through hands-on projects
+- Improving software design, code quality and testing practices
+- Documenting project decisions, limitations and reproducible workflows
 
-[View project overview](projects/emergency-communication-system/README.md)
-
-## What I'm currently focused on
-
-- Strengthening Python and SQL for development and analytics roles
-- Building practical, well-documented projects
-- Improving data handling, testing and software engineering practices
-
-## Let's connect
+## Connect
 
 - GitHub: [@rasheem897](https://github.com/rasheem897)
 
-*I value clear documentation, practical problem-solving and continuous learning. Please explore the project pages for scope and technologies; implementation details will be expanded alongside the source code.*
+*I value practical problem-solving, clear technical documentation and continuous learning. Project descriptions distinguish report-documented scope from implementation artifacts that are still to be added.*
