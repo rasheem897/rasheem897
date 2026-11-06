@@ -30,6 +30,19 @@ The report does not provide a public dataset link or the annotation files in the
 
 The results section also refers to ResNet-101 feature extraction. The report does not clearly reconcile that description with the YOLOv8 architecture narrative, so the exact end-to-end model pipeline should be confirmed from the original implementation.
 
+## Model workflow
+
+```mermaid
+flowchart TD
+    A[Brain CT images] --> B[Preprocessing: resize and normalize]
+    B --> C[YOLOv8-based detection workflow]
+    C --> D[Predicted hemorrhage regions]
+    D --> E[Bounding boxes and confidence output]
+    E --> F[Evaluation on held-out data]
+```
+
+The report's results chapter additionally refers to ResNet-101 feature extraction; confirm the exact pipeline against the original source code before treating this diagram as a complete implementation specification.
+
 ## Reported training and result
 
 | Item | Reported detail |
