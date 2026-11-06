@@ -25,16 +25,21 @@ I am an Artificial Intelligence and Data Science graduate from Anna University, 
 
 ## Featured projects
 
-These project pages are grounded in the academic reports supplied for this portfolio. They document the project scope and reported results; source code and reproducible build/training files still need to be added.
+### Retail Sales Analytics Pipeline
+**Python · Pandas · SQL · SQLite · Matplotlib**
 
-### 1. Hemorrhagic Stroke Detection in Brain CT Images
+A runnable analytics project using synthetic retail data. It validates and cleans transactions, loads them into SQLite, produces category/product/region/monthly revenue reports, and includes unit tests and a GitHub Actions workflow.
+
+[Open the project](projects/retail-sales-analytics/README.md) · [View Python pipeline](projects/retail-sales-analytics/src/run_analysis.py)
+
+### Hemorrhagic Stroke Detection in Brain CT Images
 **YOLOv8 · Computer Vision · Medical Image Analysis**
 
-An academic mini project exploring YOLOv8-based localization of suspected hemorrhagic regions in CT images. The report describes 5,511 images, 240 training epochs and a reported test accuracy of 76.27%.
+An academic mini project exploring YOLOv8-based localization of suspected hemorrhagic regions in CT images. Its report describes 5,511 images, 240 training epochs and a reported test accuracy of 76.27%.
 
 [Read the project documentation](projects/yolov8-hemorrhagic-stroke/README.md)
 
-### 2. Emergency Communication System for Remote Regions
+### Emergency Communication System for Remote Regions
 **ESP32 · LoRa · GSM · Embedded C · Arduino IDE**
 
 A team project proposing a push-button emergency alert system using a LoRa transmitter/receiver link and GSM-based SMS notifications, with display feedback.
