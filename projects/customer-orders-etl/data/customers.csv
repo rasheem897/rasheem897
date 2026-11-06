@@ -1,0 +1,15 @@
+customer_id,customer_name,region,segment
+C001,Aarav Sharma,North,Consumer
+C002,Diya Patel,West,Consumer
+C003,Kabir Iyer,South,Corporate
+C004,Meera Nair,South,Consumer
+C005,Arjun Rao,East,Small Business
+C006,Isha Singh,North,Corporate
+C007,Rohan Das,East,Consumer
+C008,Anaya Menon,West,Small Business
+C009,Vikram Shah,North,Consumer
+C010,Sara Khan,South,Corporate
+C011,Neil Thomas,West,Consumer
+C012,Tara Bose,East,Small Business
+C012,Tara Bose,East,Small Business
+C013,  ,West,Consumer
