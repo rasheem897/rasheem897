@@ -25,6 +25,13 @@ I am an Artificial Intelligence and Data Science graduate from Anna University, 
 
 ## Featured projects
 
+### Customer Orders ETL Pipeline
+**Python · Pandas · SQL · SQLite · Data Engineering**
+
+An end-to-end ETL pipeline that extracts customer and order CSVs, validates and transforms records, loads relational tables into SQLite, and exports business reports with data-quality metrics. Includes synthetic input data, SQL analytics, tests and a GitHub Actions workflow.
+
+[Open the project](projects/customer-orders-etl/README.md) · [View ETL implementation](projects/customer-orders-etl/src/etl_pipeline.py)
+
 ### Retail Sales Analytics Pipeline
 **Python · Pandas · SQL · SQLite · Matplotlib**
 
