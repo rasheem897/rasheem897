@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,region,category,product,quantity,unit_price,discount_pct
+ORD0001,2025-02-23,C006,East,Fashion,Backpack,3,1299,5
+ORD0002,2025-04-01,C001,North,Grocery,Oats Pack,5,220,5
+ORD0003,2025-02-19,C021,East,Home,Desk Lamp,4,899,5
+ORD0004,2025-04-03,C005,North,Grocery,Olive Oil,4,799,0
+ORD0005,2025-01-20,C011,South,Home,Desk Lamp,5,899,15
+ORD0006,2025-01-16,C003,West,Fashion,Backpack,1,1299,5
+ORD0007,2025-04-20,C022,South,Fashion,Backpack,4,1299,15
+ORD0008,2025-04-15,C014,,Fashion,Cotton T-Shirt,5,599,5
+ORD0009,2025-03-15,C016,North,Home,Water Bottle,1,399,5
+ORD0010,2025-03-16,C004,South,Home,Water Bottle,1,399,10
+ORD0011,2025-01-28,C002,East,Fashion,Backpack,2,1299,15
+ORD0012,2025-01-09,C009,South,Home,Storage Organizer,3,499,0
+ORD0013,2025-02-09,C011,South,Grocery,Olive Oil,3,799,5
+ORD0014,2025-04-27,C011,East,Electronics,USB-C Hub,5,1499,15
+ORD0015,2025-01-07,C009,West,Electronics,Wireless Mouse,3,699,0
+ORD0016,2025-03-23,C009,East,Fashion,Casual Sneakers,1,2499,0
+ORD0017,2025-04-06,C013,South,Electronics,USB-C Hub,4,1499,0
+ORD0018,2025-04-04,C007,South,Fashion,Casual Sneakers,5,2499,10
+ORD0019,2025-01-20,C018,North,Home,Storage Organizer,1,499,0
+ORD0020,2025-04-14,C006,North,Home,Storage Organizer,3,499,5
+ORD0021,2025-01-12,C016,West,Fashion,Cotton T-Shirt,3,599,5
+ORD0022,2025-03-11,C008,South,Electronics,USB-C Hub,1,1499,15
+ORD0023,2025-02-03,C002,East,Fashion,Backpack,5,1299,0
+ORD0024,2025-04-24,C016,West,Grocery,Oats Pack,4,220,15
+ORD0025,2025-03-12,C003,West,Home,Desk Lamp,4,899,15
+ORD0026,2025-04-07,C011,West,Fashion,Casual Sneakers,2,2499,0
+ORD0027,2025-02-16,C002,West,Home,Desk Lamp,5,899,0
+ORD0028,2025-03-16,C020,South,Home,Water Bottle,2,399,15
+ORD0029,2025-02-17,C014,East,Home,Water Bottle,2,399,0
+ORD0030,2025-02-27,C017,North,Home,Water Bottle,5,399,0
+ORD0031,2025-01-25,C015,South,Electronics,Wireless Mouse,5,699,15
+ORD0032,2025-02-27,C015,West,Fashion,Casual Sneakers,5,2499,0
+ORD0033,2025-02-07,C015,North,Electronics,Wireless Mouse,3,699,0
+ORD0034,2025-04-07,C009,North,Home,Water Bottle,3,399,0
+ORD0035,2025-03-08,C016,North,Electronics,USB-C Hub,1,1499,0
+ORD0036,2025-04-26,C004,South,Grocery,Oats Pack,3,220,15
+ORD0037,2025-02-28,C013,North,Electronics,Wireless Mouse,5,699,0
+ORD0038,2025-02-24,C007,North,Electronics,USB-C Hub,1,1499,15
+ORD0039,2025-02-03,C018,East,Fashion,Backpack,3,1299,5
+ORD0040,2025-04-15,C017,North,Grocery,Coffee Beans,4,450,10
+ORD0041,2025-01-11,C011,East,Home,Water Bottle,1,399,5
+ORD0042,2025-02-12,C016,South,Electronics,USB-C Hub,2,1499,15
+ORD0043,2025-02-26,C003,South,Home,Storage Organizer,1,499,5
+ORD0044,2025-02-23,C012,West,Grocery,Olive Oil,3,799,0
+ORD0045,2025-01-28,C010,South,Electronics,Bluetooth Speaker,5,2199,15
+ORD0046,2025-02-25,C017,West,Electronics,USB-C Hub,4,1499,15
+ORD0047,2025-04-08,C006,South,Grocery,Coffee Beans,2,450,15
+ORD0048,2025-03-10,C014,East,Grocery,Coffee Beans,3,450,10
+ORD0005,2025-01-20,C011,South,Home,Desk Lamp,5,899,15
+ORD_BAD01,not-a-date,C999,South,Home,Desk Lamp,0,899,5
