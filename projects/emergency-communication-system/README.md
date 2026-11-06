@@ -22,6 +22,23 @@ People in remote, mountainous or rural locations may not be able to depend on or
 5. A GSM module is instructed to send an SMS alert to configured phone numbers.
 6. The transmitter OLED and receiver-side display provide status feedback; a receiver acknowledgement back to the transmitter is described as a two-way feedback mechanism.
 
+## Architecture overview
+
+The flow below summarizes the transmitter-to-receiver path described in the report:
+
+```mermaid
+flowchart LR
+    A[Emergency push button] --> B[Transmitter ESP32]
+    C[Location payload] --> B
+    B --> D[LoRa radio link]
+    D --> E[Receiver ESP32]
+    E --> F[GSM module]
+    F --> G[SMS to configured contacts]
+    E --> H[Receiver display]
+    E -. acknowledgement concept .-> D
+    B --> I[Transmitter OLED feedback]
+```
+
 ## Components and tools described in the report
 
 | Component / tool | Purpose in the proposed system |
